@@ -2,7 +2,7 @@
 **GUI based Scientific calculator**
 
 
-Built using JAVA Swing and AWT featuring: 
+Built using JAVA Swing, AWT and Script Engine, featuring: 
 
 Standard arithmetic operations: + - * / 
 
